@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ahnna Jeon
 
-<!--
-**ahnnajeon/ahnnajeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Student in Educational Measurement & Evaluation at Seoul National University.
 
-Here are some ideas to get you started:
+My research interests include causal inference, educational measurement, machine learning, and data analytics. I am particularly interested in developing transparent and accessible tools that help researchers understand the robustness of empirical findings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Causal Inference
+- Educational Measurement & Evaluation
+- Sensitivity Analysis
+- Machine Learning
+- Data Analytics
+
+## Current Work
+
+- Contributing to **SensG**, a research project developing sensitivity-analysis tools for Difference-in-Differences designs
+- Exploring the development of researcher-friendly R packages and interactive web applications
+
+## Selected Publication
+
+Jeon, A., & Park, S. (2026). 중·고등학생의 수행평가 인식과 사교육 참여에 관한 탐색적 연구. *교육행정학연구, 44*(1), 571–595. [https://doi.org/10.22553/keas.2026.44.1.571](https://doi.org/10.22553/keas.2026.44.1.571)
+
+## Thesis
+
+*A Study on Equity in Free School Meal Financing*  
+(무상급식 재정의 형평성 연구)
+
+## Award
+
+- Excellence Award, 12th Gyeonggi Academic Conference  
+  (제12회 경기학술대회 우수상)
