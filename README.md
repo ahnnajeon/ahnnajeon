@@ -35,3 +35,5 @@ Jeon, A., & Park, S. (2026). 중·고등학생의 수행평가 인식과 사교�
 
 - Excellence Award, 12th Gyeonggi Academic Conference  
   (제12회 경기학술대회 우수상)
+- Special Award, 2026 KRIVET Academic Conference
+  (2026 KRIVET 학술대회 특별상)
