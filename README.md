@@ -17,6 +17,11 @@ My research interests include causal inference, educational measurement, machine
 - Contributing to **SensG**, a research project developing sensitivity-analysis tools for Difference-in-Differences designs
 - Exploring the development of researcher-friendly R packages and interactive web applications
 
+## Interactive Project
+
+🦖 **[Wadif — a daily what-if story](https://ahnnajeon.github.io/wadif/)**  
+A tiny interactive game about choices, chance, and unexpected outcomes. One episode a day.
+
 ## Selected Publication
 
 Jeon, A., & Park, S. (2026). 중·고등학생의 수행평가 인식과 사교육 참여에 관한 탐색적 연구. *교육행정학연구, 44*(1), 571–595. [https://doi.org/10.22553/keas.2026.44.1.571](https://doi.org/10.22553/keas.2026.44.1.571)
