@@ -4,11 +4,11 @@ PhD Student in Educational Measurement & Evaluation at Seoul National University
 
 My research interests include causal inference, educational measurement, machine learning, and data analytics. I am particularly interested in developing transparent and accessible tools that help researchers understand the robustness of empirical findings.
 
-## Meet StegoAnna 🦕🐱
+## Meet StegoAhnna 🦕🐱
 
 My fluffy dinosaur-cat mascot evolves with me as I grow as a researcher—Pokémon-style!
 
-StegoAnna → TriceraAnna → TyrannoAnna
+StegoAhnna → TriceraAhnna → TyrannoAhnna
 
 Currently in my StegoAnna era: learning, asking questions, and growing one step at a time. 🌱
 
