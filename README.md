@@ -17,10 +17,13 @@ My research interests include causal inference, educational measurement, machine
 - Contributing to **SensG**, a research project developing sensitivity-analysis tools for Difference-in-Differences designs
 - Exploring the development of researcher-friendly R packages and interactive web applications
 
-## Interactive Project
+## Interactive Projects
 
 🦖 **[Wadif — a daily what-if story](https://ahnnajeon.github.io/wadif/)**  
 A tiny interactive game about choices, chance, and unexpected outcomes. One episode a day.
+
+🍜 **[오늘 뭐 먹지? — a lunch-picking ladder game](https://ahnnajeon.github.io/menu-ladder/)**  
+Can't decide what to eat? Tap an animal and ride the ladder down to today's menu. Every option gets a fair 1/n chance.
 
 ## Selected Publication
 
