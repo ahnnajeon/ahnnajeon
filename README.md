@@ -8,7 +8,9 @@ My research interests include causal inference, educational measurement, machine
 
 My fluffy dinosaur-cat mascot evolves with me as I grow as a researcher—Pokémon-style!
 
-StegoAhnna → TriceraAhnna → TyrannoAhnna
+StegoAhnna <img width="50" height="50" alt="스테고안나" src="https://github.com/user-attachments/assets/496be15c-14f8-4145-ab10-e290374b6968" />
+→ TriceraAhnna <img width="50" height="50" alt="트리케라안나" src="https://github.com/user-attachments/assets/a98e80b2-e8db-4166-8094-5bec18e73212" />
+→ TyrannoAhnna <img width="50" height="50" alt="티라노안나" src="https://github.com/user-attachments/assets/b5637b59-2b74-4d16-9dfa-88539e763dfc" />
 
 Currently in my StegoAnna era: learning, asking questions, and growing one step at a time. 🌱
 
